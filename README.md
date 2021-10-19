@@ -7,7 +7,7 @@ Skills: MYSQL / JS / HTML / CSS
 - 🌱 I’m currently learning everything  
 - 🤔 I’m looking for help with nothing at the moment 
 - 💬 Ask me about anything automotive related 
-- 📫 How to reach me: devinmosca@yahoo.com 
+- 📫 How to reach me: d.mosca91@gmail.com 
 - ⚡ Fun fact: I have an addiction to classic cars. 
 
 
