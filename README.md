@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Devin
+### Hello Everyone 👋, My name is Devin
 #### I'm the new kid on the coding block!
 I started my coding journey in June 2021 via a coding boot camp through Denver University. I am constantly developing my skills and adding to my coding toolbelt. Looking forward to the endless coding challenges ahead!
 
