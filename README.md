@@ -22,5 +22,3 @@ Skills: HTML / CSS / JavaScript / SQL / MYSQL / NODE.JS / Express.js / MongoDB /
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dmosca2021&theme=darcula)   -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dmosca2021&theme=darcula)  
-
-![Profile views](https://gpvc.arturio.dev/Dmosca2021)  
